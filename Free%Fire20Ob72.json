@@ -145,20 +145,21 @@
     "Nickname": "get_DamageCount",
     "DataType": "Int32",
     "OffsetCount": "5"
-  },      
-    {
+  }, 
+      
+   {
     "ClassName": "MKFEKBKJCKE",
-    "OffsetName": ".ctor()",
+    "OffsetName": "ctor",
     "Nickname": "damagerWeaponDynamicInfo",
     "DataType": "Void",
-    "OffsetCount": "2738"
-  }, 
-  {
+    "OffsetCount": "4550"
+  },    
+    {
     "ClassName": "ELMGJKHIIAA",
-    "OffsetName": ".ctor",
+    "OffsetName": "ctor",
     "Nickname": "DamageInfo",
     "DataType": "Void",
-    "OffsetCount": "3643"
+    "OffsetCount": "5572"
   },  {
     "ClassName": "GPBDEDFKJNA",
     "OffsetName": "BLAGCMCGEJG",
@@ -202,7 +203,7 @@
     "OffsetCount": "1"
   },     
         
- {
+     {
     "ClassName": "Transform",
     "OffsetName": "set_position_Injected",
     "Nickname": "Transform_INTERNAL_SetPosition",
@@ -367,9 +368,8 @@
     "Nickname": "set_aim by@SinghHarshit0",
     "DataType": "Void",
     "OffsetCount": "1"
-  },  
-  
-  {
+  },                          
+     {
     "ClassName": "Player",
     "OffsetName": "get_MaxHP",
     "Nickname": "get_MaxHP by@SinghHarshit0",
@@ -396,8 +396,7 @@
     "DataType": "virtual",
     "OffsetCount": "1"
   },
-  
-   {
+     {
     "ClassName": "Player",
     "OffsetName": "get_isWatching",
     "Nickname": "get_isWatching",
